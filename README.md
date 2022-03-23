@@ -5,6 +5,6 @@ Papers related to computer vision
 
 
 # Paper List (paper link)
-End-to-end Recovery of Human Shape and Pose, CVPR'18 [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.pdf)
+End-to-end Recovery of Human Shape and Pose, CVPR'18 [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.pdf)]
 
 # Paper explanation video & document
