@@ -5,7 +5,13 @@ Papers related to computer vision
 
 
 # Paper List (paper link)
+(Body Mesh)
 End-to-end Recovery of Human Shape and Pose, CVPR'18 [[paper link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.pdf)]
 
+## (Graph Convolution Networks)
+
 # Paper explanation video & document
+(Body Mesh)
 End-to-end Recovery of Human Shape and Pose, CVPR'18 [[notion](https://www.notion.so/End-to-end-Recovery-of-Human-Shape-and-Pose-b1860556f4b949018cc3a801194eea19)]
+
+## (Graph Convolution Networks)
