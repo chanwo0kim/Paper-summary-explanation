@@ -17,7 +17,7 @@ Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutio
 ## (GAN)
 Generative Adversarial Nets, NIPS'14 [[paper link](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)]
 
-UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS, ICLR'16 [[paper link](https://arxiv.org/pdf/1511.06434.pdf)]
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(DCGAN), ICLR'16 [[paper link](https://arxiv.org/pdf/1511.06434.pdf)]
 
 # Paper explanation video & document
 
@@ -32,4 +32,4 @@ Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutio
 ## (GAN)
 Generative Adversarial Nets, NIPS'14 [[notion](https://www.notion.so/Generative-Adversarial-Networks-c22a74ba66004a12ad9a42f56464c894)]
 
-UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS, ICLR'16 [[notion](https://www.notion.so/DCGAN-5360c78d520b48589016f87827dba3ec)]
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(DCGAN), ICLR'16 [[notion](https://www.notion.so/DCGAN-5360c78d520b48589016f87827dba3ec)]
